@@ -1,4 +1,4 @@
-package maputil
+package syncmap
 
 import "sync"
 
